@@ -1,5 +1,11 @@
-# contaxi
+<h1 align="center">
+Contaxi
+</h1>
 
-插件系统 & 工具集
+<p align="center">
+A flexible plugin system and development toolkit
+</p>
 
-Alpha 阶段，npm 占位用
+<p align="center">
+<strong>Internal Alpha in Progress</strong>
+</p>

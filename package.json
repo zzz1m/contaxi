@@ -1,0 +1,19 @@
+{
+    "name": "contaxi",
+    "description": "A flexible plugin system and development toolkit",
+    "version": "0.0.1-alpha",
+    "author": {
+        "name": "Zzz1m",
+        "url": "https://z1m.dev"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zzz1m/contaxi.git"
+    },
+    "scripts": {
+        "release": "bumpp && npm publish"
+    },
+    "devDependencies": {
+        "bumpp": "^9.7.1"
+    }
+}
